@@ -1,5 +1,5 @@
 ---
-title: Kamiya Endiing
+title: Kamiya Ending
 author: AmenAnthem
 ---
 
@@ -22,7 +22,7 @@ author: AmenAnthem
 - S, W, W, W, N, left door
 - talk, get letter, leave
 - S, E, E, E, N, N, E, E, left door
-- talk to red cape guy, giive letter to yellow dress guy, get rusty big key, leave
+- talk to red cape guy, give letter to yellow dress guy, get rusty big key, leave
 - W, red circle door right
 ## 1st Floor NW
 - N, W, N, E, N, E, S, E, first door right
@@ -43,7 +43,7 @@ author: AmenAnthem
 - door
 ## 1st Floor SW
 - N, left door
-- get headphoanes, leave
+- get headphones, leave
 - opposing door
 - door
 - follow path (keep right) until door
@@ -79,9 +79,9 @@ author: AmenAnthem
 ## 2nd Floor Livestock
 - E, N, E, S, S, first left door after left intersection
 - get ripped punch card from trash can, leave
-- N, N, E, N, at 6th left intersection, first left door
+- N, N, continue E, N at 5th left intersection, first left door
 - talk (options 1, 1, 2, 1), get flute, leave
-- S, E,, E, E, S, E, S, E, door
+- S, E, E, E, S, E, S, E, door
 - talk (option 1), get punch card, leave
 - W, W, N, W, until end, door
 - use second punch card
